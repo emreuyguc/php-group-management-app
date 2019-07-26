@@ -1,5 +1,8 @@
-AUTHOR : EMRE UTKU UYGUC
-CONTACT : emreuyguc@gmail.com
+![author](https://img.shields.io/badge/AUTHOR-EMRE%20UTKU%20UYGUC-red)
+![author](https://img.shields.io/badge/CONTACT-emreuyguc@gmail.com-yellowgreen)
+![author](https://img.shields.io/badge/-PHP-green)
+![author](https://img.shields.io/badge/-MYSQL-blue)
+
 
 # Php Whatsapp Grup Yönetim Yazılımı (Motor club)
 
