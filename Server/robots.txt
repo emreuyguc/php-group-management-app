@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow: /System/
+Disallow: /Areas/Developer/
+Disallow: /Areas/Admin/
+Disallow: /Areas/Error/
